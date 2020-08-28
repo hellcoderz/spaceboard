@@ -9,7 +9,7 @@ import Board from "../components/Board";
 const IndexPage = () => (
   <ThemeProvider theme={theme}>
     <Layout title="Spaceboard">
-      <h1>Spaceboard</h1>
+      <h1>Spaceboard - Vikrant Sagar</h1>
       <p>
         <Link href="/about">
           <a>About</a>
